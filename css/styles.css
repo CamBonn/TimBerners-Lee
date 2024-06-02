@@ -14,7 +14,7 @@
   color: rgb(240, 129, 60);
 }
 .info {
-  font-size: 1.8rem;
+  font-size: 1.3rem;
   font-family: domine;
   color: rgb(182, 223, 233);
 }
@@ -53,4 +53,9 @@
   font-family: domine;
   font-size: 1rem;
   margin: 15px;
+}
+.foto{
+  margin: 20px;
+height: 450px;
+width: 350px;
 }
