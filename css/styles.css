@@ -68,9 +68,15 @@
   color: rgb(240, 129, 60);
 }
 .info1 {
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   font-family: domine;
   color: rgb(223, 223, 221);
-  text-align: center;
+  text-align: center justify;
   margin: 10px;
+}
+.subtitulo1{
+  font-size: 1.4rem;
+  font-family: domine;
+  font-weight: 600;
+  color: rgb(240, 129, 60);
 }
